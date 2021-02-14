@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T09:02:50.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="UZQWUooNdilTdgoABlrr" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-14T09:03:37.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="TqNhG4zyUw6y3gFD60tO" version="14.2.6" type="github">
   <diagram id="JNALb2PzPKqTstAHPSO6" name="ポイントフロー">
     <mxGraphModel dx="1247" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -261,7 +261,7 @@
         <mxCell id="rZXJAhksHCK-96D58tUN-10" value="" style="group" parent="rZXJAhksHCK-96D58tUN-9" vertex="1" connectable="0">
           <mxGeometry y="10" width="600" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rZXJAhksHCK-96D58tUN-11" value="*C1 JQ CARD エポス(エポスポイント&amp;lt;-&amp;gt;JRキューポ)&lt;br&gt;*C2 JQカードセゾン(永久不滅ポイント&amp;lt;-&amp;gt;JRキューポ)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="rZXJAhksHCK-96D58tUN-10" vertex="1">
+        <mxCell id="rZXJAhksHCK-96D58tUN-11" value="*C1 JQ CARD エポス/JQ CARD エポスゴールド (エポスポイント&amp;lt;-&amp;gt;JRキューポ)&lt;br&gt;*C2 JQカードセゾン (永久不滅ポイント&amp;lt;-&amp;gt;JRキューポ)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="rZXJAhksHCK-96D58tUN-10" vertex="1">
           <mxGeometry y="20" width="600" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rZXJAhksHCK-96D58tUN-12" value="ポイント交換ルート開通に必要なカード" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="rZXJAhksHCK-96D58tUN-10" vertex="1">
