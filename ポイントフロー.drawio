@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T08:59:47.935Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="VNGWCOHC26k1f5LRjLzL" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-14T09:02:18.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="h6hQl386dcbRAPmQGsbQ" version="14.2.6" type="github">
   <diagram id="JNALb2PzPKqTstAHPSO6" name="ポイントフロー">
-    <mxGraphModel dx="1247" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
             <mxPoint x="1870" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n4ACcEZn-75h-fmExN6u-35" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="n4ACcEZn-75h-fmExN6u-25" edge="1">
+        <mxCell id="n4ACcEZn-75h-fmExN6u-35" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="n4ACcEZn-75h-fmExN6u-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1840" y="1030" as="sourcePoint" />
             <mxPoint x="2200" y="600" as="targetPoint" />
@@ -145,7 +145,7 @@
         <mxCell id="0r6g7IO5Q1uZSNd1gTx7-4" value="&lt;div style=&quot;font-size: 20px&quot;&gt;Gポイント&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2190" y="740" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0r6g7IO5Q1uZSNd1gTx7-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="n4ACcEZn-75h-fmExN6u-25" target="0r6g7IO5Q1uZSNd1gTx7-4" edge="1">
+        <mxCell id="0r6g7IO5Q1uZSNd1gTx7-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="n4ACcEZn-75h-fmExN6u-25" target="0r6g7IO5Q1uZSNd1gTx7-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1960" y="1220" as="sourcePoint" />
             <mxPoint x="2080" y="1000" as="targetPoint" />
@@ -279,7 +279,7 @@
         <mxCell id="lN5nsVR4za2gzK-BzXJi-2" value="" style="group" parent="lN5nsVR4za2gzK-BzXJi-1" vertex="1" connectable="0">
           <mxGeometry y="10" width="600" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="lN5nsVR4za2gzK-BzXJi-3" value="白: 等価&lt;br&gt;グレー: 等価(白線が重なると見にくいので色付け)&lt;br&gt;緑: 等価かつ相互交換可能&lt;br&gt;青: 増量交換&lt;br&gt;赤: 減量または手数料必要&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="lN5nsVR4za2gzK-BzXJi-2" vertex="1">
+        <mxCell id="lN5nsVR4za2gzK-BzXJi-3" value="白: 等価&lt;br&gt;グレー: 等価(白線が重なると見にくいので色付け)&lt;br&gt;緑: 相互交換可能かつ等価&lt;br&gt;紫: 相互交換可能かつ減量&lt;br&gt;青: 増量&lt;br&gt;赤: 減量または手数料必要" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="lN5nsVR4za2gzK-BzXJi-2" vertex="1">
           <mxGeometry y="20" width="600" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lN5nsVR4za2gzK-BzXJi-4" value="注意事項" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="lN5nsVR4za2gzK-BzXJi-2" vertex="1">
