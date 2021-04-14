@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T07:09:25.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="wy_982ZxKxMI1zni7oRQ" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T08:44:03.029Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="52zcvGJ0wBTBNaMy_nZv" version="14.6.0" type="github">
   <diagram id="JNALb2PzPKqTstAHPSO6" name="ポイントフロー">
-    <mxGraphModel dx="2212" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
