@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T08:44:22.265Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="S2gokwOdazQT0gz8vyWm" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T08:45:23.615Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="7V-IZ1tIAxLOfDBqr6LP" version="14.6.0" type="github">
   <diagram id="JNALb2PzPKqTstAHPSO6" name="ポイントフロー">
     <mxGraphModel dx="2037" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -249,10 +249,10 @@
         <mxCell id="rZXJAhksHCK-96D58tUN-6" value="" style="group" parent="rZXJAhksHCK-96D58tUN-5" vertex="1" connectable="0">
           <mxGeometry y="10" width="600" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rZXJAhksHCK-96D58tUN-2" value="*N1 ECナビでサービスを利用し, キャンペーンにエントリーすると手数料(500円分)と交換ポイントの4%がECナビに戻る&lt;br&gt;*N2 Ponta-&amp;gt;JALマイルの交換はまれにレート20%アップを行っており, その場合は60%になる (通常100pt-&amp;gt;50mi, 増量100pt-&amp;gt;60mi)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="rZXJAhksHCK-96D58tUN-6" vertex="1">
+        <mxCell id="rZXJAhksHCK-96D58tUN-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;*N1 ECナビでサービスを利用し, キャンペーンにエントリーすると手数料(500円分)と交換ポイントの4%がECナビに戻る&lt;br&gt;*N2 Ponta-&amp;gt;JALマイルの交換はまれにレート20%アップを行っており, その場合は60%になる (通常100pt-&amp;gt;50mi, 増量100pt-&amp;gt;60mi)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="rZXJAhksHCK-96D58tUN-6" vertex="1">
           <mxGeometry y="20" width="600" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rZXJAhksHCK-96D58tUN-4" value="注意事項" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="rZXJAhksHCK-96D58tUN-6" vertex="1">
+        <mxCell id="rZXJAhksHCK-96D58tUN-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;注意事項&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="rZXJAhksHCK-96D58tUN-6" vertex="1">
           <mxGeometry width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rZXJAhksHCK-96D58tUN-9" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -261,10 +261,10 @@
         <mxCell id="rZXJAhksHCK-96D58tUN-10" value="" style="group" parent="rZXJAhksHCK-96D58tUN-9" vertex="1" connectable="0">
           <mxGeometry y="10" width="600" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rZXJAhksHCK-96D58tUN-11" value="*C1 JQ CARD エポス/JQ CARD エポスゴールド (エポスポイント&amp;lt;-&amp;gt;JRキューポ)&lt;br&gt;*C2 JQカードセゾン (永久不滅ポイント&amp;lt;-&amp;gt;JRキューポ)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="rZXJAhksHCK-96D58tUN-10" vertex="1">
+        <mxCell id="rZXJAhksHCK-96D58tUN-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;*C1 JQ CARD エポス/JQ CARD エポスゴールド (エポスポイント&amp;lt;-&amp;gt;JRキューポ)&lt;br&gt;*C2 JQカードセゾン (永久不滅ポイント&amp;lt;-&amp;gt;JRキューポ)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="rZXJAhksHCK-96D58tUN-10" vertex="1">
           <mxGeometry y="20" width="600" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rZXJAhksHCK-96D58tUN-12" value="ポイント交換ルート開通に必要なカード" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="rZXJAhksHCK-96D58tUN-10" vertex="1">
+        <mxCell id="rZXJAhksHCK-96D58tUN-12" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ポイント交換ルート開通に必要なカード&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="rZXJAhksHCK-96D58tUN-10" vertex="1">
           <mxGeometry width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="35Za1Qmwk_jCWzCy-l4y-2" value="*C1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
@@ -274,16 +274,16 @@
           <mxGeometry x="2730" y="900" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lN5nsVR4za2gzK-BzXJi-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="3120" y="1430" width="600" height="130" as="geometry" />
+          <mxGeometry x="3120" y="1430" width="600" height="180" as="geometry" />
         </mxCell>
         <mxCell id="lN5nsVR4za2gzK-BzXJi-2" value="" style="group" parent="lN5nsVR4za2gzK-BzXJi-1" vertex="1" connectable="0">
-          <mxGeometry y="10" width="600" height="120" as="geometry" />
+          <mxGeometry y="13.846153846153847" width="600" height="166.15384615384616" as="geometry" />
         </mxCell>
-        <mxCell id="lN5nsVR4za2gzK-BzXJi-3" value="白: 等価&lt;br&gt;グレー: 等価(白線が重なると見にくいので色付け)&lt;br&gt;緑: 相互交換可能かつ等価&lt;br&gt;紫: 相互交換可能かつ減量&lt;br&gt;青: 増量&lt;br&gt;赤: 減量または手数料必要" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="lN5nsVR4za2gzK-BzXJi-2" vertex="1">
-          <mxGeometry y="20" width="600" height="100" as="geometry" />
+        <mxCell id="lN5nsVR4za2gzK-BzXJi-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;白: 等価&lt;br&gt;グレー: 等価(白線が重なると見にくいので色付け)&lt;br&gt;緑: 相互交換可能かつ等価&lt;br&gt;紫: 相互交換可能かつ減量&lt;br&gt;青: 増量&lt;br&gt;赤: 減量または手数料必要&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" parent="lN5nsVR4za2gzK-BzXJi-2" vertex="1">
+          <mxGeometry y="27.692307692307693" width="600" height="138.46153846153845" as="geometry" />
         </mxCell>
-        <mxCell id="lN5nsVR4za2gzK-BzXJi-4" value="注意事項" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="lN5nsVR4za2gzK-BzXJi-2" vertex="1">
-          <mxGeometry width="600" height="20" as="geometry" />
+        <mxCell id="lN5nsVR4za2gzK-BzXJi-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;注意事項&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="lN5nsVR4za2gzK-BzXJi-2" vertex="1">
+          <mxGeometry width="600" height="27.692307692307693" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
