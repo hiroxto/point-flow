@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T10:55:53.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="AAdcr7LYNOxRLhMvrzjR" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T10:55:58.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="OhU_UurhmbEnWJBa0WuM" version="14.8.0" type="github">
   <diagram id="JNALb2PzPKqTstAHPSO6" name="ポイントフロー">
     <mxGraphModel dx="2037" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rARvepKuOwMLc6lqj7yM-4" value="50% (*N2)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="2860" y="560" width="110" height="30" as="geometry" />
+          <mxGeometry x="2880" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rARvepKuOwMLc6lqj7yM-5" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=17;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="n4ACcEZn-75h-fmExN6u-8" target="0r6g7IO5Q1uZSNd1gTx7-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
