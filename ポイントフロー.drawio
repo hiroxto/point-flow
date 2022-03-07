@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T14:43:22.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="YmgM1n7tXAJpzJuPI6aj" version="16.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T14:43:33.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4spW6G6zWbIqfsxnT6eY" version="16.0.2" type="github">
   <diagram id="JNALb2PzPKqTstAHPSO6" name="ポイントフロー">
-    <mxGraphModel dx="1783" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2194" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
         <mxCell id="u_OpK2MBuBQUZOKGfSeV-2" value="50%" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2890" y="485" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u_OpK2MBuBQUZOKGfSeV-4" value="ときめきポイント" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="u_OpK2MBuBQUZOKGfSeV-4" value="WAON POINT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2850" y="960" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u_OpK2MBuBQUZOKGfSeV-6" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="u_OpK2MBuBQUZOKGfSeV-4" target="0r6g7IO5Q1uZSNd1gTx7-1" edge="1">
