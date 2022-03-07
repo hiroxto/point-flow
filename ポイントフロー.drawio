@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T14:43:33.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4spW6G6zWbIqfsxnT6eY" version="16.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T14:44:45.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="o2g49QQeWtwSSuuaH9bY" version="16.0.2" type="github">
   <diagram id="JNALb2PzPKqTstAHPSO6" name="ポイントフロー">
     <mxGraphModel dx="2194" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
             <mxPoint x="2440" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n4ACcEZn-75h-fmExN6u-6" value="毎年11~12月に20%増量" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=20;position2=0.53;" parent="1" vertex="1">
+        <mxCell id="n4ACcEZn-75h-fmExN6u-6" value="毎年11~12月に増量" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=20;position2=0.53;" parent="1" vertex="1">
           <mxGeometry x="2600" y="230" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="35Za1Qmwk_jCWzCy-l4y-2" value="*C1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
