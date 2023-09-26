@@ -14,6 +14,7 @@ flowchart LR
 各種ポイントサイト-->nanacoポイント
 
 Vポイント-->|200%\n要 Solaseed Airカード|ソラシドエアマイル
+Vポイント-->Tポイント
 エポスポイント<-->JRキューポ
 WAONP[WAON POINT]-->|要 イオンSUGOCA|JRキューポ
 永久不滅ポイント<-->JRキューポ
