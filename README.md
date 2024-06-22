@@ -22,7 +22,7 @@ WAONP-->|iAEON|Vポイント
 永久不滅ポイント-->|70%\n要 みずほANA-UC|ANAマイル
 永久不滅ポイント-->|増量|dポイント
 永久不滅ポイント-->プリンスポイント
-JREP[JRE POINT]-->|レートはSMP加入の有無による\n要 JALカード Suica|JALマイル
+JREP[JRE POINT]-->|67% JGCゴールド前提\n要JALカードSuicaゴールド|JALマイル
 
 PeX-->Vポイント
 PeX-->|増量|dポイント
