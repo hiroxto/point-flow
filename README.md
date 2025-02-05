@@ -14,14 +14,12 @@ flowchart LR
 各種ポイントサイト-->nanacoポイント
 
 Vポイント-->|200%\n要 Solaseed Airカード|ソラシドエアマイル
-エポスポイント<-->JRキューポ
 WAONP[WAON POINT]-->|要 イオンSUGOCA|JRキューポ
 WAONP-->|iAEON|Vポイント
 永久不滅ポイント<-->JRキューポ
 永久不滅ポイント-->|50% or 増量60%|JALマイル
 永久不滅ポイント-->|70%\n要 みずほANA-UC|ANAマイル
 永久不滅ポイント-->|増量|dポイント
-永久不滅ポイント-->プリンスポイント
 JREP[JRE POINT]-->|67% JGCゴールド前提\n要JALカードSuicaゴールド|JALマイル
 
 PeX-->Vポイント
@@ -31,7 +29,6 @@ PeX-->|増量|dポイント
 ドットマネー-->Pontaポイント
 Gポイント-->Vポイント
 Gポイント<-->JRキューポ
-nimocaポイント-->|70%\n要 ANA VISA nimocaカード|ANAマイル
 
 nanacoポイント-->|50%|ANAマイル
 Vポイント-->|50%|ANAマイル
